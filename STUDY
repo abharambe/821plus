@@ -1,0 +1,12 @@
+- Basic Python
+
+- Django
+
+- SQL: you need a good idea of SQL and how to model the data in terms of
+  relational databases. Although GMail really does not use relational
+  databases in its backend. Perhaps we should implement this on Google 
+  app-engine with its key-values db abstraction. But then, how would this 
+  be universal? Need to think...
+
+- Basic hashtables, trees, etc. from Cormen Leiserson, etc. Just a brief
+  overview. 
