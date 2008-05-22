@@ -1,0 +1,12 @@
+How to set everything up on ubuntu:
+
+* install mysql: apt-get install mysql-server
+* login to the mysql server as root and do:
+
+  create database [dbname]
+  grant all privileges on [dbname].* to '[user]'@'localhost' identified by '[password]'
+
+* install django: apt-get install python-django python-mysqldb
+* install git: apt-get install git-core git-svn
+* fork the 821plus github repository;
+  git clone <cl
