@@ -2,3 +2,9 @@ We will do this it in Python using Django as the backend.
 
 First, we need to think of the basic model of the data. What tables will be 
 there and how will they be represented?
+
+What are the objects in the system? 
+ - email
+ - tag
+ - folder
+ - conversation
